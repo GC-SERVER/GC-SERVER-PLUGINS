@@ -1,4 +1,1 @@
-GC-SERVER-PLUGINS
-=================
-
-It's GC-SERVER plugins
+PocketMine-MP Plugins
